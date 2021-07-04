@@ -11,7 +11,7 @@
 															<header>
 																<h3><a href="#">Something of note</a></h3>
 															</header>
-															<a href="#" class="image left"><img src="<@rootpath/>images/pic06.jpg" alt="" /></a>
+															<a href="#" class="image left"><img src="<@rootpath/>/assets/images/pic06.jpg" alt="" /></a>
 															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
 															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
 															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
@@ -29,7 +29,7 @@
 															<header>
 																<h3><a href="#">Something of less note</a></h3>
 															</header>
-															<a href="#" class="image left"><img src="<@rootpath/>images/pic07.jpg" alt="" /></a>
+															<a href="#" class="image left"><img src="<@rootpath/>/assets/images/pic07.jpg" alt="" /></a>
 															<p>Phasellus sed laoreet massa id justo mattis pharetra. Fusce suscipit ligula vel quam
 															viverra sit amet mollis tortor congue magna lorem ipsum dolor et quisque ut odio facilisis
 															convallis. Etiam non nunc vel est suscipit convallis non id orci. Ut interdum tempus
